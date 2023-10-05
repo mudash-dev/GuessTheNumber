@@ -44,10 +44,13 @@ You can customize the game by modifying the guess_the_number.py script.
 
 You can change the name of the player, the range of numbers,the number of attempts and number of bonus attempts.
 
+
 # License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
+
 This game was created as a simple Python project.
  
 Feel free to contribute, report issues, or suggest improvements.
